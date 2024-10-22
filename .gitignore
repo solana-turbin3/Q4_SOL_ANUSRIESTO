@@ -1,0 +1,5 @@
+*wallet.json
+.DS_Store
+**/node_modules/
+**/target/
+**/*wallet.json
